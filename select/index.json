@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "アドレナ",
   "base_artist": "YOASOBI",
-  "createdAt": "2026-03-23T14:22:33.618806Z",
+  "createdAt": "2026-03-26T13:52:42.478656Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -15,18 +15,26 @@
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "アドレナ (instrumental)",
+      "title": "アドレナ",
       "artist": "YOASOBI",
-      "has_synced": false,
-      "path": "select/02_アドレナ_(instrumental)_YOASOBI.txt"
+      "has_synced": true,
+      "path": "select/02_アドレナ_YOASOBI.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
+      "title": "アドレナ (instrumental)",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/03_アドレナ_(instrumental)_YOASOBI.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
       "title": "アドレナ - Instrumental -",
       "artist": "YOASOBI",
       "has_synced": false,
-      "path": "select/03_アドレナ_-_Instrumental_-_YOASOBI.txt"
+      "path": "select/04_アドレナ_-_Instrumental_-_YOASOBI.txt"
     },
     {
       "id": "petitlyrics_1",
@@ -44,6 +52,15 @@
       "has_synced": false,
       "path": "select/localdb_01_アドレナ_YOASOBI.txt",
       "repo_name": "ARqP5ohiubY"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "アドレナ",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/localdb_02_アドレナ_YOASOBI.txt",
+      "repo_name": "vDxzlhHdhE4"
     }
   ]
 }
